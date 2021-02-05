@@ -47,7 +47,7 @@
         <div class="colorlib-table-cell js-fullheight">
           <div class="row no-gutters">
             <div class="col-md-12 text-center">
-              <h1 class="mb-4"><a href="index.html" class="logo">Krishna Kompalli.</a></h1>
+              <h1 class="mb-4"><a href="index.html" class="logo">Sai Vasanth.</a></h1>
               
               <ul>
                 <li class="active"><a href="index.html"><span><small>01</small>Home</span></a></li>
@@ -67,7 +67,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="colorlib-navbar-brand">
-                <a class="colorlib-logo" href="index.html"><span class="logo-img" style="background-image: url(images/pic1.jpg);"></span>Krishna<span style="color: dodgerblue;">.</span></a>
+                <a class="colorlib-logo" href="index.html"><span class="logo-img" style="background-image: url(images/pic1.jpg);"></span>Vasanth<span style="color: dodgerblue;">.</span></a>
               </div>
               <a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle"><i></i></a>
             </div>
@@ -178,7 +178,7 @@
           </div>
           <div class="row no-gutters">
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="https://www.npmjs.com/package/man-array" target="_blank" class="image d-flex justify-content-center align-items-center" style="background-image: url('images/npm.png'); " data-scrollax=" properties: { translateY: '-30%'}">
+
               <div class="icon d-flex text-center justify-content-center align-items-center">
                 <span class="icon-search"></span>
               </div>
@@ -380,15 +380,15 @@
             <div class="col-md-5 text-center">
               <div class="ftco-footer-widget mb-5">
                 <ul class="ftco-footer-social list-unstyled">
-                  <li class="ftco-animate"><a href="https://www.linkedin.com/in/krishna-kompalli/" target="_blank"><span class="icon-linkedin"></span></a></li>
-                  <li class="ftco-animate"><a href="https://www.facebook.com/krishna.kompalli.69" target="_blank"><span class="icon-facebook"></span></a></li>
-                  <li class="ftco-animate"><a href="https://www.instagram.com/killerfizh/" target="_blank"><span class="icon-instagram"></span></a></li>
-                  <li class="ftco-animate"><a href="https://github.com/killerfizh" target="_blank"><span class="icon-github"></span></a></li>
+                  <li class="ftco-animate"><a href="https://www.linkedin.com/in/saivasanth/" target="_blank"><span class="icon-linkedin"></span></a></li>
+                  <li class="ftco-animate"><a href="https://www.facebook.com/saivasanth" target="_blank"><span class="icon-facebook"></span></a></li>
+                  <li class="ftco-animate"><a href="https://www.instagram.com/mr.vasanth___/" target="_blank"><span class="icon-instagram"></span></a></li>
+                  <li class="ftco-animate"><a href="https://github.com/SaiVasanth007" target="_blank"><span class="icon-github"></span></a></li>
                 </ul>
               </div>
               <div class="ftco-footer-widget">
                 <h2 class="mb-3">Contact Me</h2>
-                <p class="h3 email"><a href="mailto:kompalligk@gmail.com">kompalligk@gmail.com</a></p>
+                <p class="h3 email"><a href="mailto: thesaivasanth@gmail.com">thesaivasanth@gmail.com></p>
               </div>
             </div>
           </div>
@@ -396,7 +396,7 @@
             <div class="col-md-12 text-center">
 
               <p>
-     </script>Made with <i class="icon-heart" aria-hidden="true" style="color: red;"></i> by <a href="#">Krishna Kompalli</a>
+     </script>Made with <i class="icon-heart" aria-hidden="true" style="color: red;"></i> by <a href="#">Sai Vasanth</a>
       </p>
             </div>
           </div>
